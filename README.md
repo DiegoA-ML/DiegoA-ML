@@ -1,16 +1,17 @@
-# Hey there, I'm Diego 👋
+Hi, I’m Diego 👋  
 
-👨‍💻 Data Science & Mathematics Engineering student, passionate about machine learning, data visualization, and cloud computing.
+I’m a Data Science and Mathematics Engineering student focused on business analytics, forecasting, and quantitative decision support. My work centers on applying data analysis and optimization techniques to real-world operational and planning problems.
 
-🔧 **Skills**:
-- Python | SQL | Bash | Machine Learning | MLOps
-- Data Visualization | Cloud Computing | Big Data
+🔧 Core tools and skills:
+• Python and SQL for data analysis and modeling  
+• Forecasting, optimization, and applied statistics  
+• Data-driven reporting and decision support  
 
-### 🚀 **What to expect**:
-- A mix of personal and collaborative projects focused on turning data into actionable insights.
+🚀 What you’ll find here:
+• Academic and applied projects focused on forecasting, logistics, optimization, and business-relevant analytics  
+• Clean, well-documented work designed to translate data into actionable insights  
 
-⚡ *"Learning every day, improving every project."* ⚡
+Connect with me on LinkedIn:  
+www.linkedin.com/in/diegoarmandomijares  
 
-Find me on LinkedIn: www.linkedin.com/in/diegoamijares
-
-This is my main account, my backup can be found @DiegoA-ML2 !
+This is my main account. Backup account: @DiegoA-ML2
