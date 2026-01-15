@@ -1,15 +1,15 @@
-Hi, I’m Diego 👋  
+Hi, I’m Diego 👋 
 
-I’m a Data Science and Mathematics Engineering student focused on business analytics, forecasting, and quantitative decision support. My work centers on applying data analysis and optimization techniques to real-world operational and planning problems.
+I’m a Data Science and Mathematics Engineering student focused on business analytics, forecasting, and quantitative decision support. I’m particularly interested in how analytical work supports project execution, operational planning, and cross-functional decision-making.
 
-🔧 Core tools and skills:
+Core tools and skills:
 • Python and SQL for data analysis and modeling  
 • Forecasting, optimization, and applied statistics  
-• Data-driven reporting and decision support  
+• Analytical support for operations and project-oriented work  
 
-🚀 What you’ll find here:
+What you’ll find here:
 • Academic and applied projects focused on forecasting, logistics, optimization, and business-relevant analytics  
-• Clean, well-documented work designed to translate data into actionable insights  
+• Structured, well-documented work designed to support clear execution and informed decisions  
 
 Connect with me on LinkedIn:  
 www.linkedin.com/in/diegoarmandomijares  
