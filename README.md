@@ -1,17 +1,31 @@
-Hi, I’m Diego 👋 
+# Hej, I'm Diego.
 
-I’m a Data Science and Mathematics Engineering student focused on business analytics, forecasting, and quantitative decision support. I’m particularly interested in how analytical work supports project execution, operational planning, and cross-functional decision-making.
+I hold a BSc in Data Science and Mathematics Engineering and am pursuing an MSc in Business Analytics. My work focuses on forecasting, optimization, and quantitative decision support. 
 
-Core tools and skills:
-• Python and SQL for data analysis and modeling  
-• Forecasting, optimization, and applied statistics  
-• Analytical support for operations and project-oriented work  
+I bridge the gap between analytical engineering and operational execution, developing models that support project management, logistics, and cross-functional decisions.
 
-What you’ll find here:
-• Academic and applied projects focused on forecasting, logistics, optimization, and business-relevant analytics  
-• Structured, well-documented work designed to support clear execution and informed decisions  
+---
 
-Connect with me on LinkedIn:  
-www.linkedin.com/in/diegoarmandomijares  
+### Core Competencies
 
-This is my main account. Backup account: @DiegoA-ML2
+* **Languages & Data:** Python, SQL, Applied Statistics
+* **Advanced Modeling:** Machine Learning, Deep Learning, AI
+* **Decision Support:** Forecasting, Mathematical Optimization
+* **Operations:** Analytical support for project execution and supply chain logistics
+
+---
+
+### Repositories
+
+This profile serves as a portfolio of structured, well-documented academic and applied projects. The work focuses on data-driven solutions for real-world operations, corporate analytics, and reproducible engineering pipelines.
+
+---
+
+### Contact & Links
+
+* **LinkedIn:** [www.linkedin.com/in/diegoamijares](www.linkedin.com/in/diegoamijares)
+
+<br>
+
+***
+<sub>Main account. Secondary backup: @DiegoA-ML2</sub>
